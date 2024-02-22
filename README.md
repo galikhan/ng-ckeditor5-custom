@@ -32,11 +32,12 @@ ClassicEditor.create( document.querySelector( '#editor' )) {
 }
 ```
 ### Also do not forget add typings config
+```
 in tsconfig.app.json or tsconfig.json
 include: [
   'path-to-file.d.ts'
 ]
-
+```
 ### then you need to build your editor to take effect
 
 ```
