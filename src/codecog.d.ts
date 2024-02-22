@@ -1,0 +1,1 @@
+declare module '@codecogs/eqneditor-ckeditor5/src/eqneditor5'
